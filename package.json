@@ -1,0 +1,17 @@
+{
+  "name": "consoletint",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "./welcome.js",
+    "postuninstall": "./goodbye.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/consoletint/ConsoleTint"
+  },
+  "author": "",
+  "license": "GNU",
+  "dependencies": {}
+}
