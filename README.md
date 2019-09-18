@@ -1,9 +1,8 @@
 # consoletint
 consoletint is a super lightweight alternative to [chalk](https://www.npmjs.com/package/chalk) and [ansi-styles](https://www.npmjs.com/package/ansi-styles)!
 
-![license](https://img.shields.io/npm/l/coloredconsole)![downloads](https://img.shields.io/npm/dt/coloredconsole)![platform](https://img.shields.io/node/v/coloredconsole)
-
-![langs](https://img.shields.io/github/languages/count/ColoredConsole/ColoredConsole)
+![license](https://img.shields.io/npm/l/consoletint) ![downloads](https://img.shields.io/npm/dt/consoletint)
+![langs](https://img.shields.io/github/languages/count/consoletint/consoletint)
 
 ### Getting Started
 First, Install the module using:

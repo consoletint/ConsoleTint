@@ -1,11 +1,11 @@
 {
   "name": "consoletint",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.7",
+  "description": "consoletint is a super lightweight alternative to chalk and ansi-styles!",
   "main": "index.js",
   "scripts": {
-    "install": "./welcome.js",
-    "postuninstall": "./goodbye.js"
+    "install": "node ./welcome.js",
+    "postuninstall": "node ./goodbye.js"
   },
   "repository": {
     "type": "git",
